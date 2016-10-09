@@ -9,7 +9,7 @@ days_in_year = 365.25
 # my_age = 23.7
 age_20 = 20
 age_100 = 100
-string_1 = "There are "
+string_1 = "there are "
 string_2 = "That means "
 
 puts string_1 + seconds_in_minute.to_s + " seconds in a minute"
